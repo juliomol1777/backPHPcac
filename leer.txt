@@ -1,0 +1,5 @@
+a la pagina completa index.html la puedo recortar por partes como
+header y main, en archivos php
+luego usando include para llamar cada archivo php 
+en un archivo como partes.php me muestra la pagina completa
+para llamar al archivo de coneccion.php uso el require
